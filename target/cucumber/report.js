@@ -188,14 +188,14 @@ formatter.match({
   "location": "ChooseSongTests.isn_t_playing_any_song(String)"
 });
 formatter.result({
-  "duration": 588631978,
+  "duration": 1038736984,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseSongTests.have_these_songs_on_its_store(SongDTO\u003e)"
 });
 formatter.result({
-  "duration": 78379257,
+  "duration": 140350713,
   "status": "passed"
 });
 formatter.match({
@@ -208,14 +208,14 @@ formatter.match({
   "location": "ChooseSongTests.user_searches_for_all_songs_of_university(String)"
 });
 formatter.result({
-  "duration": 5970918,
+  "duration": 17193309,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseSongTests.will_return_next_songs(SongDTO\u003e)"
 });
 formatter.result({
-  "duration": 1849669,
+  "duration": 5427596,
   "status": "passed"
 });
 formatter.scenario({
@@ -313,14 +313,14 @@ formatter.match({
   "location": "ChooseSongTests.university_is_not_playing_any_song(String)"
 });
 formatter.result({
-  "duration": 14390833,
+  "duration": 30319898,
   "status": "passed"
 });
 formatter.match({
   "location": "ChooseSongTests.tries_to_add_these_songs(SongDTO\u003e)"
 });
 formatter.result({
-  "duration": 77858372,
+  "duration": 175324520,
   "status": "passed"
 });
 formatter.match({
@@ -333,7 +333,7 @@ formatter.match({
   "location": "ChooseSongTests.receives_a_error(int)"
 });
 formatter.result({
-  "duration": 103004,
+  "duration": 315045,
   "status": "passed"
 });
 formatter.uri("listenCurrentSong.feature");
@@ -421,7 +421,7 @@ formatter.match({
   "location": "ListenCurrentSongTests.is_playing(String,SongDTO\u003e)"
 });
 formatter.result({
-  "duration": 25559959,
+  "duration": 74022092,
   "status": "passed"
 });
 formatter.match({
@@ -434,14 +434,14 @@ formatter.match({
   "location": "ListenCurrentSongTests.user_searches_for_university_current_song(String)"
 });
 formatter.result({
-  "duration": 10017390,
+  "duration": 11913882,
   "status": "passed"
 });
 formatter.match({
   "location": "ListenCurrentSongTests.will_return_a_song(SongDTO\u003e)"
 });
 formatter.result({
-  "duration": 399552,
+  "duration": 895328,
   "status": "passed"
 });
 formatter.scenario({
@@ -477,7 +477,7 @@ formatter.match({
   "location": "ListenCurrentSongTests.is_not_playing_any_song(String)"
 });
 formatter.result({
-  "duration": 12638303,
+  "duration": 28851965,
   "status": "passed"
 });
 formatter.match({
@@ -490,14 +490,14 @@ formatter.match({
   "location": "ListenCurrentSongTests.user_searches_for_university_s_current_song(String)"
 });
 formatter.result({
-  "duration": 10327868,
+  "duration": 20486391,
   "status": "passed"
 });
 formatter.match({
   "location": "ListenCurrentSongTests.not_Found_error_will_be_returned()"
 });
 formatter.result({
-  "duration": 37390,
+  "duration": 107890,
   "status": "passed"
 });
 formatter.scenario({
@@ -560,7 +560,7 @@ formatter.match({
   "location": "ListenCurrentSongTests.is_playing_a_song(String,SongDTO\u003e)"
 });
 formatter.result({
-  "duration": 21280722,
+  "duration": 48715468,
   "status": "passed"
 });
 formatter.match({
@@ -573,7 +573,7 @@ formatter.match({
   "location": "ListenCurrentSongTests.system_waits_for_seconds(int)"
 });
 formatter.result({
-  "duration": 2000756216,
+  "duration": 2000317392,
   "status": "passed"
 });
 formatter.match({
@@ -586,14 +586,14 @@ formatter.match({
   "location": "ListenCurrentSongTests.user_searches_for_song(String)"
 });
 formatter.result({
-  "duration": 11799978,
+  "duration": 20405324,
   "status": "passed"
 });
 formatter.match({
   "location": "ListenCurrentSongTests.not_Found_error_will_be_shown()"
 });
 formatter.result({
-  "duration": 51685,
+  "duration": 142922,
   "status": "passed"
 });
 });

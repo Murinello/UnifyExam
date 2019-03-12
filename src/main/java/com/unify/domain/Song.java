@@ -32,16 +32,11 @@ public class Song {
 		
 	}
 	public Song(String title, String artistName, int duration, String songUrl, String imageUrl) throws InvalidParamException{
-		if(title==null || title.trim().equals(""))
-			throw new InvalidParamException();
-		if(artistName==null || artistName.trim().equals(""))
-			throw new InvalidParamException();
-		if(duration < 0)
-			throw new InvalidParamException();
-		if(songUrl==null || songUrl.trim().equals(""))
-			throw new InvalidParamException();
-		if(imageUrl==null || imageUrl.trim().equals(""))
-			throw new InvalidParamException();
+		if (title ==  null  || title.equals("")) throw new InvalidParamException();
+		if (artistName ==  null   || artistName.equals("")) throw new InvalidParamException();
+		if (duration < 0  ) throw new InvalidParamException();
+		if (songUrl ==  null   || songUrl.equals("")) throw new InvalidParamException();
+		if (imageUrl ==  null   || imageUrl.equals("")) throw new InvalidParamException();
 		
 		this.title=title;
 		this.artistName=artistName;
